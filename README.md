@@ -1,1 +1,1 @@
-# Algorithms-MC-MIPT-2020
+# Algorithms and models of computation, MIPT, 2020
